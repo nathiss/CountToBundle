@@ -1,3 +1,0 @@
-nathiss_count_to_homepage:
-    path:     /
-    defaults: { _controller: NathissCountToBundle:Default:index }
