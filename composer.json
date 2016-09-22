@@ -1,0 +1,15 @@
+{
+    "name": "nathiss/count-to-bundle",
+    "description": "A Simple Symfony 2|3 bundle for generating delta between two dtime points.",
+    "type": "symfony-bundle",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kamil Rusin",
+            "email": "kamil.jakub.rusin@gmail.com"
+        }
+    ]
+}
