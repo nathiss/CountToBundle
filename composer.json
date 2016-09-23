@@ -11,5 +11,10 @@
             "name": "Kamil Rusin",
             "email": "kamil.jakub.rusin@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nathiss\\Bundle\\CountToBundle\\": ""
+        }
+    }
 }
